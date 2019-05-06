@@ -1,8 +1,17 @@
 package sadfaf;
 
-public class test1 {
-
-	public static void main(String[] args) {
+class A {
+	void f() {
 		
+	}
+}
+
+class B extends A {
+	public B() {
+		super();
+		int a[] = {1,2,3};
+	}
+	static {
+	
 	}
 }
