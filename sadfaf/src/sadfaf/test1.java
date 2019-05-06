@@ -3,7 +3,7 @@ package sadfaf;
 class A {
 	void f() {
 		System.out.println(56);
-		a();
+		System.out.println(12);
 	}
 }
 
