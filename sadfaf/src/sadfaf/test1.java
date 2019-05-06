@@ -2,7 +2,7 @@ package sadfaf;
 
 class A {
 	void f() {
-		
+		System.out.println(56);
 	}
 }
 
